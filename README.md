@@ -1,6 +1,6 @@
 # WSL2 AVD Connector
 
-Links WSL2 to Android Virtual Devices on Windows.
+Minimal Android Virtual Device emulator on Windows that can link to WSL2.
 
 ## Reference Guide
 
